@@ -236,7 +236,7 @@ main {
   cursor: pointer;
 }
 
-.formulario-contacto button:hover {
+.formulario-contacto button:hover { 
   background-color: #1566cf;
 }
 
