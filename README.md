@@ -23,14 +23,4 @@ Puedes acceder al sitio desplegado en GitHub Pages a través del siguiente enlac
 - **Bootstrap 5**: Framework para agilizar el desarrollo y garantizar un diseño moderno.
 - **Git y GitHub**: Control de versiones y despliegue del proyecto.
 
-## 📂 Estructura del Proyecto
 
-El proyecto está organizado de la siguiente manera:
-PreEntrega2Brusco/
-├── assets/
-│ ├── css/ # Archivos CSS personalizados
-│ ├── js/ # Archivos JavaScript (si los hay)
-│ └── images/ # Imágenes utilizadas en el proyecto
-├── index.html # Página principal
-├── README.md # Documentación del proyecto
-└── .nojekyll # Archivo para desactivar Jekyll en GitHub Pages (si los hay)
