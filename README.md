@@ -1,4 +1,4 @@
-# PreEntrega2Brusco
+# PreEntregaBrusco
 
 ¡Bienvenido a mi proyecto **PreEntrega2Brusco**! Este es un sitio web estático desarrollado como parte de mi formación en desarrollo web. Utiliza **HTML**, **CSS** y **Bootstrap** para crear una interfaz moderna y responsive.
 
