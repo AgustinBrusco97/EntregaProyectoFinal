@@ -14,7 +14,7 @@ Este proyecto es una entrega práctica que demuestra mis habilidades en el desar
 
 Puedes acceder al sitio desplegado en GitHub Pages a través del siguiente enlace:
 
-[Ver sitio en vivo](https://agustinbrusco97.github.io/PreEntrega2Brusco/)
+[Ver sitio en vivo](https://agustinbrusco97.github.io/PreEntregaBrusco/)
 
 ## 🛠️ Tecnologías Utilizadas
 
