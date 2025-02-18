@@ -1,0 +1,24 @@
+// Importamos las variables y mixins
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+// Importamos estilos base
+@import 'base/reset';
+
+// Importamos componentes
+@import 'components/topbar';
+@import 'components/navbar';
+@import 'components/footer';
+
+// Importamos layout
+@import 'layout/header';
+@import 'layout/main';
+@import 'layout/form';
+@import 'layout/preguntas';
+@import 'layout/historia';
+
+// Accesibilidad global (outline para focos)
+a:focus,
+button:focus {
+    outline: 2px dashed $primary-color;
+}

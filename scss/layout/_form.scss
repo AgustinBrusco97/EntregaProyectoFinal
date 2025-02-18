@@ -1,0 +1,34 @@
+.formulario-contacto {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 0 auto;
+    max-width: 800px;
+  
+    label {
+      font-weight: bold;
+    }
+  
+    input,
+    textarea {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+  
+    button {
+      background-color: $primary-color;
+      color: #fff;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+  
+      &:hover {
+        background-color: #1566cf;
+      }
+    }
+  }

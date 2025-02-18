@@ -1,0 +1,20 @@
+{
+  "name": "preentrega2brusco.git",
+  "version": "1.0.0",
+  "description": "¡Bienvenido a mi proyecto **PreEntrega2Brusco**! Este es un sitio web estático desarrollado como parte de mi formación en desarrollo web. Utiliza **HTML**, **CSS** y **Bootstrap** para crear una interfaz moderna y responsive.",
+  "homepage": "https://github.com/AgustinBrusco97/PreEntrega2Brusco#readme",
+  "bugs": {
+    "url": "https://github.com/AgustinBrusco97/PreEntrega2Brusco/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgustinBrusco97/PreEntrega2Brusco.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

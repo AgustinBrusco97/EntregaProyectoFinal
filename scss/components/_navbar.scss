@@ -1,0 +1,64 @@
+.main-nav {
+    position: relative;
+  
+    .hamburger {
+      display: none;
+      cursor: pointer;
+      font-size: 24px;
+      color: #fff;
+      position: absolute;
+      right: 20px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+  
+    ul {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      list-style: none;
+      padding: 20px;
+      margin: 0;
+  
+      li.itemNavBar {
+        padding-top: 12.5px;
+      }
+  
+      a {
+        text-decoration: none;
+        color: #fff;
+        font-weight: bold;
+        transition: color 0.3s;
+  
+        &:hover,
+        &:focus {
+          color: $secondary-color;
+        }
+      }
+    }
+  
+    // Responsive: para pantallas menores el breakpoint se oculta la lista y se muestra el botón hamburguesa
+    @media (max-width: $breakpoint-mobile) {
+      ul {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        background-color: $primary-color;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        padding: 10px 0;
+      }
+  
+      &.active {
+        ul {
+          display: flex;
+        }
+      }
+  
+      .hamburger {
+        display: block;
+      }
+    }
+  }
