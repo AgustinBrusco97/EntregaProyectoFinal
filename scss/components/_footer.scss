@@ -1,24 +1,24 @@
+@use '../abstracts/variables' as *;
 .site-footer {
-    background-color: $primary-color;
-    color: #fff;
+  background-color: $primary-color;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+
+  p,
+  small {
+    margin: 5px 0;
+  }
+
+  .mail-academia {
+    color: rgb(250, 246, 246);
+  }
+
+  .redes-sociales {
     text-align: center;
-    padding: 10px;
-  
-    p,
-    small {
-      margin: 5px 0;
-    }
-  
-    .mail-academia {
-      color: rgb(156, 156, 156);
-    }
-  
-    .redes-sociales {
-      text-align: center;
-  
-      .logoRedesSociales {
-        padding: 0 50px;
-        text-align: center;
-      }
+
+    .logoRedesSociales {
+      padding: 0 50px;
     }
   }
+}

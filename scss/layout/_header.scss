@@ -1,14 +1,12 @@
+@use '../abstracts/variables' as *;
 .site-header {
-    background-color: $primary-color;
-    padding: 10px;
-    color: #fff;
-    text-align: center;
-    margin-bottom: 20px;
-    padding-bottom: 23px;
-    
-  
-    .logo {
-      background-color: $primary-color;
-      max-height: 40px;
-    }
+  background-color: $primary-color;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 20px;
+
+  .logo {
+    max-height: 40px;
   }
+} 

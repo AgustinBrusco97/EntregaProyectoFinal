@@ -1,24 +1,19 @@
-// Importamos las variables y mixins
-@import 'abstracts/variables';
-@import 'abstracts/mixins';
+// styles.scss
 
-// Importamos estilos base
-@import 'base/reset';
+@use 'abstracts/variables';
+@use 'abstracts/mixins';
+@use 'base/reset';
+@use 'components/topbar';
+@use 'components/navbar';
+@use 'components/footer';
+@use 'components/whatsapp';
+@use 'layout/header';
+@use 'layout/main';
+@use 'layout/form';
+@use 'layout/preguntas';
+@use 'layout/historia';
 
-// Importamos componentes
-@import 'components/topbar';
-@import 'components/navbar';
-@import 'components/footer';
 
-// Importamos layout
-@import 'layout/header';
-@import 'layout/main';
-@import 'layout/form';
-@import 'layout/preguntas';
-@import 'layout/historia';
 
-// Accesibilidad global (outline para focos)
-a:focus,
-button:focus {
-    outline: 2px dashed $primary-color;
-}
+
+

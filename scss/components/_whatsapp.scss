@@ -1,0 +1,41 @@
+@use '../abstracts/variables' as *;
+// Definir animaciones
+@keyframes bounce {
+    0%, 100% {
+    transform: translateY(0);
+    }
+    50% {
+    transform: translateY(-10px);
+    }
+    }
+
+    @keyframes pulse {
+    0% {
+    transform: scale(1);
+    }
+    50% {
+    transform: scale(1.1);
+    }
+    100% {
+    transform: scale(1);
+    }
+    }
+
+  // Aplicar animaciones al botón de WhatsApp
+    .whatsapp-bubble {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+
+    img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+      animation: bounce 2s infinite; // Animación por defecto
+    }
+
+    &:hover img {
+      animation: pulse 1s infinite; // Animación al hacer hover
+    }
+}

@@ -1,13 +1,12 @@
+@use '../abstracts/variables' as *;
 .top-bar {
-    background-color: $bg-top-bar;
-    color: $color-top-bar;
-    text-align: center;
-    padding: 8px 0;
-    font-size: 14px;
-  
-    
-    p,
-    h6 {
-      margin: 0;
-    }
+  background-color: $bg-top-bar;
+  color: $color-top-bar;
+  text-align: center;
+  padding: 8px 0;
+  font-size: 14px;
+
+  p {
+    margin-bottom: 0;
   }
+}
