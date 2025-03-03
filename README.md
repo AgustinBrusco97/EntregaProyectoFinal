@@ -12,7 +12,7 @@ Este proyecto es una entrega práctica que demuestra mis habilidades en el desar
 
 ## 🚀 Cómo ver el proyecto
 
-Puedes acceder al sitio desplegado en GitHub Pages a través del siguiente enlace:
+Puedes acceder al sitio desplegado en GitHub Pages o Vercel a través del siguiente enlace:
 
 [Ver sitio en vivo (GitHub)](https://agustinbrusco97.github.io/EntregaProyectoFinal/)
 
