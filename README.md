@@ -1,6 +1,6 @@
-# PreEntregaBrusco
+# EntregaProyectoFinal
 
-¡Bienvenido a mi proyecto **PreEntrega2Brusco**! Este es un sitio web estático desarrollado como parte de mi formación en desarrollo web. Utiliza **HTML**, **CSS** y **Bootstrap** para crear una interfaz moderna y responsive.
+¡Bienvenido a mi proyecto **EntregaProyectoFinal**! Este es un sitio web desarrollado como parte de mi formación en desarrollo web. Utiliza **HTML**, **CSS** , **Bootstrap** y **Otras** para crear una interfaz moderna y responsive.
 
 ## 📌 Descripción del Proyecto
 
@@ -15,6 +15,7 @@ Este proyecto es una entrega práctica que demuestra mis habilidades en el desar
 Puedes acceder al sitio desplegado en GitHub Pages a través del siguiente enlace:
 
 [Ver sitio en vivo](https://agustinbrusco97.github.io/EntregaProyectoFinal/)
+[Ver sitio en vivo (Vercel)](https://entrega-proyecto-final-chi.vercel.app/)
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -22,5 +23,7 @@ Puedes acceder al sitio desplegado en GitHub Pages a través del siguiente enlac
 - **CSS3**: Estilos personalizados y diseño responsive.
 - **Bootstrap 5**: Framework para agilizar el desarrollo y garantizar un diseño moderno.
 - **Git y GitHub**: Control de versiones y despliegue del proyecto.
+- **SASS**: Mixins,extends variables, maps.
+- **SEO**: Etiquetas meta.
 
 
