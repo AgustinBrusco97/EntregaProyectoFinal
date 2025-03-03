@@ -14,7 +14,7 @@ Este proyecto es una entrega práctica que demuestra mis habilidades en el desar
 
 Puedes acceder al sitio desplegado en GitHub Pages a través del siguiente enlace:
 
-[Ver sitio en vivo](https://agustinbrusco97.github.io/EntregaProyectoFinal/)
+[Ver sitio en vivo (GitHub)](https://agustinbrusco97.github.io/EntregaProyectoFinal/)
 [Ver sitio en vivo (Vercel)](https://entrega-proyecto-final-chi.vercel.app/)
 
 ## 🛠️ Tecnologías Utilizadas
